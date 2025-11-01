@@ -12,7 +12,7 @@ You can accept credit cards, Google pay and Apple pay online using Stripe. It is
 
 ## **About the Stripe+ Feature**
 
-Get the most from your online ordering system and enable Stripe+ to unlock multiple additional features inside your account.&#x20;
+Get the most from your online ordering system and enable Stripe+ to unlock multiple additional features inside your account.
 
 Benefits of using our Stripe+ solution are as follows;
 
@@ -25,9 +25,7 @@ Benefits of using our Stripe+ solution are as follows;
 * **Get paid features for free -** Premium Stripe Radar features enabled on your account without the additional costs.
 * **Bot management -** Additional features to proactively reduce the growing threat of malicious bots.
 
-{% content-ref url="setup-integrated-stripe-payments.md" %}
-[setup-integrated-stripe-payments.md](setup-integrated-stripe-payments.md)
-{% endcontent-ref %}
+{% include "../.gitbook/includes/untitled.md" %}
 
 {% content-ref url="using-stripe-integrated.md" %}
 [using-stripe-integrated.md](using-stripe-integrated.md)

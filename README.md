@@ -29,12 +29,30 @@ Step-by-step tutorials for various features and functionalities.
 
 In-depth details about our platform's capabilities and configurations.
 
+
+
 ### **Featured Articles:**
 
-* [Setting Up Online Payments](https://david-web-solutions.gitbook.io/david-web-solutions-docs/how-to-guides/accepting-payments): Learn how to integrate and manage payment options.
-* [Customizing Your Store](https://support.cloudwaitress.com/customize-store): Tips and tricks to personalize your online store for a better customer experience.
-* [Order Management](https://support.cloudwaitress.com/order-management): Efficiently handle and track orders to ensure customer satisfaction.
+{% content-ref url="how-to-guides/accepting-payments/" %}
+[accepting-payments](how-to-guides/accepting-payments/)
+{% endcontent-ref %}
 
-For further assistance, feel free to [contact us](https://support.cloudwaitress.com/contact).
+Learn how to integrate and manage payment options.
+
+{% content-ref url="getting-started/customize-your-design/" %}
+[customize-your-design](getting-started/customize-your-design/)
+{% endcontent-ref %}
+
+Tips and tricks to personalize your online store for a better customer experience.
+
+{% content-ref url="getting-started/managing-orders-and-bookings.md" %}
+[managing-orders-and-bookings.md](getting-started/managing-orders-and-bookings.md)
+{% endcontent-ref %}
+
+Efficiently handle and track orders to ensure customer satisfaction.
+
+For further assistance, feel free to [contact us](https://davidwebsolutions.com/lets-talk/).
+
+
 
 ***
