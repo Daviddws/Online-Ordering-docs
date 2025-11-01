@@ -31,7 +31,7 @@ In-depth details about our platform's capabilities and configurations.
 
 
 
-### **Featured Articles:**
+### **Featured:**
 
 {% content-ref url="how-to-guides/accepting-payments/" %}
 [accepting-payments](how-to-guides/accepting-payments/)
