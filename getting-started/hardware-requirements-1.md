@@ -8,7 +8,7 @@ description: >-
 
 ## Hardware Requirements
 
-Welcome to the CloudWaitress Hardware Requirements page. Having the right hardware setup is crucial for the smooth operation of your restaurant's online ordering system. Below are our updated recommendations for a seamless experience in 2024.
+Welcome to the Hardware Requirements page. Having the right hardware setup is crucial for the smooth operation of your restaurant's online ordering system. Below are our updated recommendations for a seamless experience in 2024.
 
 ### Stable Internet Connection
 
@@ -17,10 +17,6 @@ A stable internet connection is essential for our cloud-based system. Here are s
 * **Dedicated Internet:** Use a dedicated Internet connection to ensure reliability.
 * **Backup Connection:** Keep a 5G mobile internet connection as a backup. In case of interruptions, use your phone in hotspot mode.
 * **Primary 5G Connection:** Consider exclusively using a 5G connection in areas with reliable mobile networks.
-
-{% hint style="warning" %}
-**Firewall Settings:** Ensure cloudwaitress.com is white-listed on your firewall to prevent connection issues.
-{% endhint %}
 
 ## Computer or Tablet
 
@@ -54,7 +50,7 @@ We highly recommend using an Android device or Windows tablet/computer. Windows 
 ## Printers
 
 {% hint style="info" %}
-Printers are optional but useful for managing orders.  We highly recommend using a thermal receipt printer.
+Printers are optional but useful for managing orders. We highly recommend using a thermal receipt printer.
 {% endhint %}
 
 #### From Windows
@@ -81,7 +77,7 @@ We recommend printers from [PushPrinter](https://www.pushprinter.com) as we trus
 **Other Printers:**
 
 {% hint style="warning" %}
-We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+We do NOT recommend Star printers for use with Android. If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
 {% endhint %}
 
 * Star Micronics TSP143 (Bluetooth, USB, or Wi-Fi)

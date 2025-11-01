@@ -38,7 +38,3 @@ In-depth details about our platform's capabilities and configurations.
 For further assistance, feel free to [contact us](https://support.cloudwaitress.com/contact).
 
 ***
-
-{% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
-{% endhint %}
